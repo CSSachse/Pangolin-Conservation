@@ -1,2 +1,3 @@
 Pangolin-Conservation
 =====================
+This was a small project carried out in the last 4 out of 24 hours of hshacks (High School hacks), after the drastic failure of our initial hardware-based hack :(. This was also the first time I was introduced to git, with the usual consequences. Need it be said, I was unable to figure out how to upload our project to github and simply placed it on Koding temporarily, and now I am finally uploading this nostalgic masterpiece (ie. not actually a masterpiece) to github for deserved immortalization as a highlight of my inspired creative and programming skills. Built from scratch using HTML5 canvas and an ipad for drawing the artwork. Please ignore bugs, shitty artwork, and trippy af game concept.
